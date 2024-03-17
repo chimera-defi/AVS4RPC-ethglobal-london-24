@@ -3,10 +3,11 @@
 Eigenlayer Actively validated service for RPC providers. 
 
 # Goal
-Incentivize independent smaller RPC providers. Incentivize LST protocols and small/solo stakers to offer public RPCs to users. 
-Diversify RPC landscape. Reduce payment for order flow and mev capture at main centralization points like infura/metamask default RPC. 
-Reduce total network censorship. 
-Decentralize RPC providers geographically vs current centralization with infura arch running in US. 
+Incentivize independent smaller RPC providers.   
+Incentivize LST protocols and small/solo stakers to offer public RPCs to users.   
+Diversify RPC landscape. Reduce payment for order flow and mev capture at main centralization points like infura/metamask default RPC.   
+Reduce total network censorship.   
+Decentralize RPC providers geographically vs current centralization with infura arch running in US.   
 
 # Steps / Overview
 1. Rpc operator purchases token (mockERC20 here, ref RPCOPToken)
