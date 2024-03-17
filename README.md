@@ -9,6 +9,9 @@ Diversify RPC landscape. Reduce payment for order flow and mev capture at main c
 Reduce total network censorship.   
 Decentralize RPC providers geographically vs current centralization with infura arch running in US.   
 
+### Want to get a headstart on running your own RPC node? Try my eth2-quickstart scripts to setup a CL+EL+mev-boost+nginx rpc and secure the server: https://github.com/chimera-defi/eth2-quickstart
+
+
 # Steps / Overview
 1. Rpc operator purchases token (mockERC20 here, ref RPCOPToken)
 2. RPC operator signs up via registry contract (provided by eigenlayer) by running `make cli-setup-operator` using their RPCOPToken as a stake and their default rpc uri. 
