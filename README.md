@@ -30,10 +30,10 @@ Decentralize RPC providers geographically vs current centralization with infura 
 -- TODO: Add lib to contracts (is shipping a 100+ file lib with the repo the only way? feels regressive)
 
 # Contact
-chimera_defi@protonmail.com
-X: @ChimeraDefi
-TG: Ask me 
-IG/LinkedIn: Lol no
+chimera_defi@protonmail.com  
+X: @ChimeraDefi  
+TG: Ask me   
+IG/LinkedIn: Lol no  
   
 # OLD - this is forked from the Eigenlayer repo `Incredible Squaring AVS`
 
