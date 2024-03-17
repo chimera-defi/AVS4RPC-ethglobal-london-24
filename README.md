@@ -28,8 +28,14 @@ Decentralize RPC providers geographically vs current centralization with infura 
 - Final upload -- file hierarchy is a bit messed up, 
 -- TODO: Rm folders that should be in contracts from root. 
 -- TODO: Add lib to contracts (is shipping a 100+ file lib with the repo the only way? feels regressive)
+
+# Contact
+chimera_defi@protonmail.com
+X: @ChimeraDefi
+TG: Ask me 
+IG/LinkedIn: Lol no
   
-# OLD
+# OLD - this is forked from the Eigenlayer repo `Incredible Squaring AVS`
 
 # Incredible Squaring AVS
 
